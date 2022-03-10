@@ -1,0 +1,56 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Richard Hendricks",
+            "email": "richard@piedpiper.com"
+        },
+        {
+            "id": 2,
+            "name": "Jared Dunn",
+            "email": "jared@piedpiper.com"
+        },
+        {
+            "id": 3,
+            "name": "Gavin Belson",
+            "email": "gavin@hooli.com"
+        },
+        {
+            "name": "Erlich Bachman",
+            "email": "erlich@piedpiper.com",
+            "id": 4
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "description": "Go grocery shopping",
+            "urgent": true,
+            "userId": 1,
+            "categoryId": 1,
+            "completed": false
+        },
+        {
+            "id": 2,
+            "description": "Organize the closet",
+            "urgent": true,
+            "userId": 1,
+            "categoryId": 2,
+            "completed": false
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Personal"
+        },
+        {
+            "id": 2,
+            "name": "Work"
+        },
+        {
+            "id": 2,
+            "name": "School"
+        }
+    ]
+}
