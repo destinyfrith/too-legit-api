@@ -23,36 +23,60 @@
     ],
     "tasks": [
         {
-            "id": 1,
-            "description": "Go grocery shopping",
-            "urgent": true,
-            "userId": 1,
-            "categoryId": 1,
-            "completed": false
-        },
-        {
-            "id": 2,
-            "description": "Organize the closet",
-            "urgent": true,
-            "userId": 1,
-            "categoryId": 2,
-            "completed": false
-        },
-        {
-            "description": "Whats up",
-            "urgent": true,
-            "userId": 1,
-            "categoryId": "2",
-            "completed": false,
-            "id": 3
-        },
-        {
             "description": "Relax this weekend",
             "urgent": false,
             "userId": 1,
             "categoryId": "1",
             "completed": false,
             "id": 4
+        },
+        {
+            "description": "Finish my book",
+            "urgent": false,
+            "userId": 1,
+            "categoryId": "1",
+            "completed": false,
+            "id": 5
+        },
+        {
+            "description": "Learn some CSS",
+            "urgent": true,
+            "userId": 1,
+            "categoryId": "2",
+            "completed": false,
+            "id": 6
+        },
+        {
+            "description": "Do the dishes",
+            "urgent": false,
+            "userId": 1,
+            "categoryId": "1",
+            "completed": false,
+            "id": 7
+        },
+        {
+            "description": "Wash bedding",
+            "urgent": false,
+            "userId": 1,
+            "categoryId": "1",
+            "completed": false,
+            "id": 8
+        },
+        {
+            "description": "Keep practicing React",
+            "urgent": false,
+            "userId": 1,
+            "categoryId": "2",
+            "completed": false,
+            "id": 9
+        },
+        {
+            "description": "Take out recyling",
+            "urgent": true,
+            "userId": 3,
+            "categoryId": "1",
+            "completed": false,
+            "id": 10
         }
     ],
     "categories": [
@@ -65,7 +89,7 @@
             "name": "Work"
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "School"
         }
     ]
