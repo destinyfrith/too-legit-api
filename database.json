@@ -1,104 +1,80 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Richard Hendricks",
-            "email": "richard@piedpiper.com"
-        },
-        {
-            "id": 2,
-            "name": "Jared Dunn",
-            "email": "jared@piedpiper.com"
-        },
-        {
-            "id": 3,
-            "name": "Gavin Belson",
-            "email": "gavin@hooli.com"
-        },
-        {
-            "name": "Erlich Bachman",
-            "email": "erlich@piedpiper.com",
-            "id": 4
-        }
-    ],
-    "tasks": [
-        {
-            "description": "Relax this weekend",
-            "urgent": false,
-            "userId": 1,
-            "categoryId": "1",
-            "completed": true,
-            "id": 4
-        },
-        {
-            "description": "Drink a protein shake",
-            "urgent": false,
-            "userId": 1,
-            "categoryId": "1",
-            "completed": false,
-            "id": 5
-        },
-        {
-            "description": "Learn some CSS",
-            "urgent": true,
-            "userId": 1,
-            "categoryId": "2",
-            "completed": false,
-            "id": 6
-        },
-        {
-            "description": "Do the dishes",
-            "urgent": false,
-            "userId": 1,
-            "categoryId": "1",
-            "completed": false,
-            "id": 7
-        },
-        {
-            "description": "Wash bedding",
-            "urgent": false,
-            "userId": 1,
-            "categoryId": "1",
-            "completed": false,
-            "id": 8
-        },
-        {
-            "description": "Keep practicing React",
-            "urgent": false,
-            "userId": 1,
-            "categoryId": "2",
-            "completed": false,
-            "id": 9
-        },
-        {
-            "description": "Take out recyling",
-            "urgent": true,
-            "userId": 3,
-            "categoryId": "1",
-            "completed": true,
-            "id": 10
-        },
-        {
-            "description": "Meal prep",
-            "urgent": false,
-            "userId": 3,
-            "categoryId": "1",
-            "completed": false,
-            "id": 11
-        }
-    ],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Personal"
-        },
-        {
-            "id": 2,
-            "name": "Work"
-        },
-        {
-            "id": 3,
-            "name": "School"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Richard Hendricks",
+      "email": "richard@piedpiper.com"
+    },
+    {
+      "id": 2,
+      "name": "Jared Dunn",
+      "email": "jared@piedpiper.com"
+    },
+    {
+      "id": 3,
+      "name": "Gavin Belson",
+      "email": "gavin@hooli.com"
+    },
+    {
+      "name": "Erlich Bachman",
+      "email": "erlich@piedpiper.com",
+      "id": 4
+    }
+  ],
+  "tasks": [
+    {
+      "description": "Learn some CSS",
+      "urgent": true,
+      "userId": 1,
+      "categoryId": "2",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "description": "Take out recyling",
+      "urgent": true,
+      "userId": 3,
+      "categoryId": "1",
+      "completed": true,
+      "id": 10
+    },
+    {
+      "description": "Import Material UI icons",
+      "urgent": false,
+      "userId": 3,
+      "categoryId": "3",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "description": "Get color coded classes to cover entire task",
+      "urgent": false,
+      "userId": 3,
+      "categoryId": "2",
+      "completed": false,
+      "id": 15
+    },
+    {
+      "description": "Upload resume v1",
+      "urgent": false,
+      "userId": 3,
+      "categoryId": "1",
+      "completed": false,
+      "id": 16
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Personal"
+    },
+    {
+      "id": 2,
+      "name": "Work"
+    },
+    {
+      "id": 3,
+      "name": "School"
+    }
+  ]
 }
