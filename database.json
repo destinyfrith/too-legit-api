@@ -27,11 +27,11 @@
             "urgent": false,
             "userId": 1,
             "categoryId": "1",
-            "completed": false,
+            "completed": true,
             "id": 4
         },
         {
-            "description": "Finish my book",
+            "description": "Drink a protein shake",
             "urgent": false,
             "userId": 1,
             "categoryId": "1",
@@ -75,8 +75,16 @@
             "urgent": true,
             "userId": 3,
             "categoryId": "1",
-            "completed": false,
+            "completed": true,
             "id": 10
+        },
+        {
+            "description": "Meal prep",
+            "urgent": false,
+            "userId": 3,
+            "categoryId": "1",
+            "completed": false,
+            "id": 11
         }
     ],
     "categories": [
