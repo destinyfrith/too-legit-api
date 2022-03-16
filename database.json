@@ -35,7 +35,7 @@
       "urgent": true,
       "userId": 3,
       "categoryId": "1",
-      "completed": true,
+      "completed": false,
       "id": 10
     },
     {
@@ -47,7 +47,7 @@
       "id": 14
     },
     {
-      "description": "Get color coded classes to cover entire task",
+      "description": "Drink more water",
       "urgent": false,
       "userId": 3,
       "categoryId": "2",
@@ -59,7 +59,7 @@
       "urgent": false,
       "userId": 3,
       "categoryId": "1",
-      "completed": false,
+      "completed": true,
       "id": 16
     }
   ],
