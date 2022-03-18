@@ -19,17 +19,19 @@
       "name": "Erlich Bachman",
       "email": "erlich@piedpiper.com",
       "id": 4
+    },
+    {
+      "name": "Destiny Frith",
+      "email": "d@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "devin k",
+      "email": "devin@g.com",
+      "id": 6
     }
   ],
   "tasks": [
-    {
-      "description": "ddfgdfg",
-      "urgent": true,
-      "userId": 1,
-      "categoryId": "2",
-      "completed": false,
-      "id": 6
-    },
     {
       "description": "Take out recyling",
       "urgent": true,
@@ -39,28 +41,108 @@
       "id": 10
     },
     {
-      "description": "Import Material UI icons",
+      "description": "Learn CSS",
       "urgent": false,
-      "userId": 3,
+      "userId": 1,
       "categoryId": "3",
-      "completed": false,
+      "completed": true,
       "id": 14
     },
     {
-      "description": "Drink more water",
-      "urgent": false,
-      "userId": 3,
-      "categoryId": "2",
-      "completed": true,
-      "id": 15
-    },
-    {
-      "description": "OH YEAH",
+      "description": "oh no",
       "urgent": false,
       "userId": 3,
       "categoryId": "1",
       "completed": true,
       "id": 16
+    },
+    {
+      "description": "Get oil change done",
+      "urgent": true,
+      "userId": 3,
+      "categoryId": "2",
+      "completed": true,
+      "id": 17
+    },
+    {
+      "description": "Get MVP on project",
+      "urgent": false,
+      "userId": 3,
+      "categoryId": "3",
+      "completed": false,
+      "id": 18
+    },
+    {
+      "description": "Pay waterbill",
+      "urgent": true,
+      "userId": 6,
+      "categoryId": "1",
+      "completed": true,
+      "id": 20
+    },
+    {
+      "description": "hello",
+      "urgent": false,
+      "userId": 6,
+      "categoryId": "2",
+      "completed": false,
+      "id": 21
+    },
+    {
+      "description": "Go for a hike",
+      "urgent": false,
+      "userId": 1,
+      "categoryId": "1",
+      "completed": false,
+      "id": 22
+    },
+    {
+      "description": "Turn in resume v2",
+      "urgent": false,
+      "userId": 1,
+      "categoryId": "3",
+      "completed": true,
+      "id": 26
+    },
+    {
+      "description": "Order new card",
+      "urgent": true,
+      "userId": 1,
+      "categoryId": "2",
+      "completed": false,
+      "id": 27
+    },
+    {
+      "description": "Have a birthday party",
+      "urgent": false,
+      "userId": 1,
+      "categoryId": "1",
+      "completed": false,
+      "id": 28
+    },
+    {
+      "description": "Take myself out to a movie",
+      "urgent": false,
+      "userId": 3,
+      "categoryId": "2",
+      "completed": false,
+      "id": 29
+    },
+    {
+      "description": "text mal",
+      "urgent": true,
+      "userId": 3,
+      "categoryId": "1",
+      "completed": false,
+      "id": 30
+    },
+    {
+      "description": "Make cookies",
+      "urgent": true,
+      "userId": 1,
+      "categoryId": "2",
+      "completed": false,
+      "id": 31
     }
   ],
   "categories": [
