@@ -41,14 +41,6 @@
       "id": 10
     },
     {
-      "description": "Go to the mall",
-      "urgent": false,
-      "userId": 1,
-      "categoryId": "3",
-      "completed": false,
-      "id": 14
-    },
-    {
       "description": "Get oil change done",
       "urgent": true,
       "userId": 3,
@@ -89,11 +81,11 @@
       "id": 22
     },
     {
-      "description": "Turn in resume v2",
+      "description": "Turn in resume v3",
       "urgent": false,
       "userId": 1,
       "categoryId": "3",
-      "completed": false,
+      "completed": true,
       "id": 26
     },
     {
