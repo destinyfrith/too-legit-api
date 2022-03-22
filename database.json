@@ -33,7 +33,7 @@
   ],
   "tasks": [
     {
-      "description": "Take out recyling",
+      "description": "Check the mail",
       "urgent": true,
       "userId": 3,
       "categoryId": "1",
@@ -41,20 +41,12 @@
       "id": 10
     },
     {
-      "description": "Learn CSS",
+      "description": "Go to the mall",
       "urgent": false,
       "userId": 1,
       "categoryId": "3",
-      "completed": true,
+      "completed": false,
       "id": 14
-    },
-    {
-      "description": "oh no",
-      "urgent": false,
-      "userId": 3,
-      "categoryId": "1",
-      "completed": true,
-      "id": 16
     },
     {
       "description": "Get oil change done",
@@ -101,7 +93,7 @@
       "urgent": false,
       "userId": 1,
       "categoryId": "3",
-      "completed": true,
+      "completed": false,
       "id": 26
     },
     {
@@ -129,7 +121,7 @@
       "id": 29
     },
     {
-      "description": "text mal",
+      "description": "Call mom",
       "urgent": true,
       "userId": 3,
       "categoryId": "1",
