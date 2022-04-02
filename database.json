@@ -33,23 +33,15 @@
   ],
   "tasks": [
     {
-      "description": "Check the mail",
-      "urgent": true,
-      "userId": 3,
-      "categoryId": "1",
-      "completed": false,
-      "id": 10
-    },
-    {
-      "description": "Get oil change done",
+      "description": "Watch Batman",
       "urgent": true,
       "userId": 3,
       "categoryId": "2",
-      "completed": true,
+      "completed": false,
       "id": 17
     },
     {
-      "description": "Get MVP on project",
+      "description": "Present capstone",
       "urgent": false,
       "userId": 3,
       "categoryId": "3",
@@ -105,15 +97,7 @@
       "id": 28
     },
     {
-      "description": "Take myself out to a movie",
-      "urgent": false,
-      "userId": 3,
-      "categoryId": "2",
-      "completed": false,
-      "id": 29
-    },
-    {
-      "description": "Call mom",
+      "description": "Clean house",
       "urgent": true,
       "userId": 3,
       "categoryId": "1",
@@ -127,6 +111,22 @@
       "categoryId": "2",
       "completed": false,
       "id": 31
+    },
+    {
+      "description": "Resume talk",
+      "urgent": false,
+      "userId": 3,
+      "categoryId": "3",
+      "completed": false,
+      "id": 34
+    },
+    {
+      "description": "Buy new clothes",
+      "urgent": true,
+      "userId": 3,
+      "categoryId": "1",
+      "completed": false,
+      "id": 36
     }
   ],
   "categories": [
