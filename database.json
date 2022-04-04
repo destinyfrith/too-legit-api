@@ -33,22 +33,6 @@
   ],
   "tasks": [
     {
-      "description": "Watch Batman",
-      "urgent": true,
-      "userId": 3,
-      "categoryId": "2",
-      "completed": false,
-      "id": 17
-    },
-    {
-      "description": "Present capstone",
-      "urgent": false,
-      "userId": 3,
-      "categoryId": "3",
-      "completed": false,
-      "id": 18
-    },
-    {
       "description": "Pay waterbill",
       "urgent": true,
       "userId": 6,
@@ -97,11 +81,11 @@
       "id": 28
     },
     {
-      "description": "Clean house",
+      "description": "Watch Batman",
       "urgent": true,
       "userId": 3,
       "categoryId": "1",
-      "completed": false,
+      "completed": true,
       "id": 30
     },
     {
@@ -113,7 +97,7 @@
       "id": 31
     },
     {
-      "description": "Resume talk",
+      "description": "Resume v2",
       "urgent": false,
       "userId": 3,
       "categoryId": "3",
@@ -121,7 +105,7 @@
       "id": 34
     },
     {
-      "description": "Buy new clothes",
+      "description": "Adopt a cat",
       "urgent": true,
       "userId": 3,
       "categoryId": "1",
@@ -133,8 +117,24 @@
       "urgent": false,
       "userId": 3,
       "categoryId": "2",
-      "completed": false,
+      "completed": true,
       "id": 38
+    },
+    {
+      "description": "Make lots of money",
+      "urgent": false,
+      "userId": 3,
+      "categoryId": "2",
+      "completed": false,
+      "id": 39
+    },
+    {
+      "description": "Become a CSS pro",
+      "urgent": true,
+      "userId": 3,
+      "categoryId": "3",
+      "completed": false,
+      "id": 40
     }
   ],
   "categories": [
